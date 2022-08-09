@@ -3,7 +3,7 @@ entries:
   xavki_api:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-08-09T11:02:39.232976168Z"
+    created: "2022-08-09T11:37:53.163524832Z"
     description: A Helm chart for Kubernetes
     digest: b07b78013537fdef684b831d4672f26ceabde5b9d065afabcd3f4f16518e6c1f
     name: xavki_api
@@ -11,4 +11,15 @@ entries:
     urls:
     - xavki_api-0.1.0.tgz
     version: 0.1.0
-generated: "2022-08-09T11:02:39.232440267Z"
+  xavki_redis:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-08-09T11:37:53.163831433Z"
+    description: A Helm chart for Kubernetes
+    digest: 3d4499045f369a1ecf32b15931bd4b73076cc386db321f1f6afd5c26ef780fec
+    name: xavki_redis
+    type: application
+    urls:
+    - xavki_redis-0.1.0+141a1bf.tgz
+    version: 0.1.0+141a1bf
+generated: "2022-08-09T11:37:53.162994931Z"
